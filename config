@@ -28,7 +28,7 @@ channels = (
 );
 
 settings = {
-  core = { real_name = "reyhan"; user_name = "reyhan"; nick = "reyhan"; };
+  core = { real_name = "username"; user_name = "username"; nick = "username"; };
   "fe-text" = { actlist_sort = "refnum"; scrollback_time = "7day"; };
   "fe-common/core" = {
     bell_beeps = "yes";
@@ -39,6 +39,6 @@ settings = {
 };
 
 hilights = (
-  { text = "reyhan"; nick = "yes"; word = "yes"; },
-  { text = "rey|away"; nick = "yes"; word = "yes"; }
+  { text = "username"; nick = "yes"; word = "yes"; },
+  { text = "username|away"; nick = "yes"; word = "yes"; }
 );
